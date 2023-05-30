@@ -45,7 +45,25 @@ footer {
     height: 100%;
 }
 
+.menu {
+    position: fixed;
+    top: 205px;
+    left: 10px;
+    width: 350px;
+    height: 280px;
+    background-color: #e7ebe3;
+    color: #908f8f;
+}
 
+a {
+    color: #908f8f;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: white;
+    color: #800000;
+}
 
 
 
